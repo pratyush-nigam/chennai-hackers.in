@@ -77,6 +77,12 @@ def main():
                      ],
             "profileurl": "http://pranavrc.wordpress.com",
             },
+        {
+            "screenname": "pratyush",
+            "avatar":["avatars/pratyush/Untitled.jpg"],
+            "desc": ["Tends to fall dangerously in love with what he likes."],
+            "profileurl": "http://web.iiit.ac.in/pratyush.nigam",
+            },
     ]
 
     print json.dumps(jsondict)
